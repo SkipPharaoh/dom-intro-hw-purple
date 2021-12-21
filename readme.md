@@ -45,7 +45,7 @@ Use the following methods of DOM nodes to update the content of the DOM:
 * `outerText`
 * `textContent`
 
-#Choose your own adventure
+# Choose your own adventure
 
 To extend your learning and practice reading documentation, choose one of the prompts in the '/choose-your-own-adventure' folder.
 Work on __ONE__ of the prompts in either #4 (medium) __OR__ #5 (medium-hard)
