@@ -9,7 +9,7 @@ console.log(firstId)
 
 // 2. Now delete that first element (in the html file), and re-run your code.
 //    What changed?
-firstId.remove()
+// firstId.remove()
 // The first element was removed from the webpage!
 
 // 3. Get the elements with a class of 'second' with getElementsByClassName:
@@ -18,8 +18,8 @@ console.log(secondId);
 
 // 4. Delete one of the elements with a class of 'second' and refresh the page.
 //    Do you get a similar result?
-secondId[1].classList.remove('second')
-console.log(secondId)
+// secondId[0].classList.remove('second')
+// console.log(secondId)
 // It removed one of the second-class, so it is not the same results
 
 // 5. Get the span element using getElementsByTagname:
