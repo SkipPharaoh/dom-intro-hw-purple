@@ -13,8 +13,8 @@ const firstText = document.getElementById('first').innerText
 console.log(firstText)
 
 // 3. Print the HTML of `first`.
-const firstHTML = document.getElementById('first').innerHTML
-console.log(firstHTML)
+// const firstHTML = document.getElementById('first').innerHTML
+console.log(first5)
 
 // 4. Get the section tag from the page and save it to a variable.
 const sectionTag = document.querySelector('section')
